@@ -10,6 +10,7 @@ const Hero = () => {
           alt="An image showing Syed Moazam Ali"
           width={300}
           height={300}
+          priority
         />
       </div>
 
